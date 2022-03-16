@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DispSupport", "DispSupport\DispSupport.csproj", "{7035C4F3-FA15-4726-B473-41B624DB9D37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7035C4F3-FA15-4726-B473-41B624DB9D37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7035C4F3-FA15-4726-B473-41B624DB9D37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7035C4F3-FA15-4726-B473-41B624DB9D37}.Debug|x86.ActiveCfg = Debug|x86
+		{7035C4F3-FA15-4726-B473-41B624DB9D37}.Debug|x86.Build.0 = Debug|x86
+		{7035C4F3-FA15-4726-B473-41B624DB9D37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7035C4F3-FA15-4726-B473-41B624DB9D37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7035C4F3-FA15-4726-B473-41B624DB9D37}.Release|x86.ActiveCfg = Release|x86
+		{7035C4F3-FA15-4726-B473-41B624DB9D37}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E05571D5-B001-4D89-9820-F0BD2EC8314D}
+	EndGlobalSection
+EndGlobal
